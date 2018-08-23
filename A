@@ -1,5 +1,5 @@
-function q()
-local attempt = assert(load(gg.makeRequest('https://raw.githubusercontent.com/aditiaid29/adisk/master/q').content))
+function O()
+local attempt = assert(load(gg.makeRequest('https://raw.githubusercontent.com/aditiaid29/twennine/master/O').content))
 return attempt()
 end
-q()
+O()
